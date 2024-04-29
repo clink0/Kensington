@@ -13,9 +13,13 @@ The first player to take control of all six points of a white hexagon or a hexag
 
 ## Rules
 
-Setup: Players alternate placing their counters (game pieces) on any unoccupied intersection of the board. Continue until each player has placed 15 counters.
+Setup: 
 
-Movement: Once all counters are placed, players may move their counters along lines to adjacent unoccupied intersections.
+Players alternate placing their counters (game pieces) on any unoccupied intersection of the board. Continue until each player has placed 15 counters.
+
+Movement: 
+
+Once all counters are placed, players may move their counters along lines to adjacent unoccupied intersections.
 
 Mills:
 
