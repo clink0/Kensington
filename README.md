@@ -18,7 +18,9 @@ Setup: Players alternate placing their counters (game pieces) on any unoccupied 
 Movement: Once all counters are placed, players may move their counters along lines to adjacent unoccupied intersections.
 
 Mills:
+
 -Single Mill: Take control of all three vertices of any triangle with your counters and you can move one opponent's counter to any vacant vertex.
+
 -Double Mill: Take control of all four vertices of any square with your counters and you can move two opponent's counter's to any vacant vertex.
 
 ## Makefile Info
