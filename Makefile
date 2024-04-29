@@ -1,7 +1,6 @@
 main: main.o board.o boardShapes.o  moves.o
 	g++ main.o board.o boardShapes.o  moves.o -o main
 
-# Compilation rules
 main.o: main.cpp
 	g++ -c main.cpp
 
