@@ -5,7 +5,7 @@
 class board : public moves
 {
 public:
-    //gameBoard array
+    //gameBoard array to store locations of counters
     int gameBoard[4][30];
 
     //class constructor
