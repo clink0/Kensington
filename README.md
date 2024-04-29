@@ -27,7 +27,14 @@ Mills:
 
 -Double Mill: Take control of all four vertices of any square with your counters and you can move two opponent's counter's to any vacant vertex.
 
+## Command Line Gameplay
+
+I have plans to update this project to include a GUI. At the moment it is playable through the command line with a coordinate map.
+
+The coordinate map is included at the top of this README instead of clicking and moving a game piece you will input the numbers that correspond to the space on the board you are referencing.
+
 ## Makefile Info
+
 In terminal run
 
 ```bash
