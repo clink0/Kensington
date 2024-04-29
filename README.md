@@ -24,15 +24,15 @@ Mills:
 ## Makefile Info
 In terminal run
 
-'''bash
+```bash
 make
-'''
+```
 
 and then
 
-'''bash
+```bash
 ./main
-'''
+```
 
 ## Contributing
 
