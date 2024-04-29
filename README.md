@@ -3,8 +3,6 @@
 Kensington is a board game developed in the 1970's by Brian Taylor and Peter Forbes.
 It is played on a geometrical board inspired by the rhombitrihexagonal mosaic included in the Kensington gardens in London.
 
-The simplicity of the game rules are what lead to the abstract and complex strategy employed by players.
-
 ![Kensington board](KensingtonBoardOG.jpeg)
 
 ## Objective
