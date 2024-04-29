@@ -5,7 +5,7 @@ It is played on a geometrical board inspired by the rhombitrihexagonal mosaic in
 
 The simplicity of the game rules are what lead to the abstract and complex strategy employed by players.
 
-![Kensington board](KensingtonBoard.png)
+![Kensington board](KensingtonBoardOG.jpeg)
 
 ## Objective
 
@@ -28,6 +28,8 @@ Mills:
 -Double Mill: Take control of all four vertices of any square with your counters and you can move two opponent's counter's to any vacant vertex.
 
 ## Command Line Gameplay
+
+![Kensington Board Adapted](KensingtonBoard.png)
 
 I have plans to update this project to include a GUI. At the moment it is playable through the command line with a coordinate map.
 
